@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Ä€²ÿÿÿÿÿ
+W
+java:S1068":Remove this unused "demandeImmatriculation" private field.(â—ø“8ï¤Öá×1
+R
+java:S1068"5Remove this unused "certificatCession" private field.(§’»À8ï¤Öá×1
+L
+java:S1068"/Remove this unused "bonCommande" private field.(Ë¤Ÿì8ï¤Öá×1
