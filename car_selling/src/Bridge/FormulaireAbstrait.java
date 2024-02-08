@@ -1,6 +1,6 @@
 package Bridge;
 
-public abstract class FormulaireAbstrait implements Formulaire {
+public abstract class FormulaireAbstrait extends Formulaire {
     protected Widget widget;
 
     public FormulaireAbstrait(Widget widget) {
