@@ -1,6 +1,6 @@
 package Iterator;
 
-public interface Iterator<T> {
+public interface Iterator{
     boolean hasNext();
-    T next();
+    Vehicule next();
 }

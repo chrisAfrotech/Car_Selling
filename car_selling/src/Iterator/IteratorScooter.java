@@ -1,10 +1,7 @@
 package Iterator;
-
-import Abstract_Factory.Scooter;
-
+import java.util.ArrayList;
 import java.util.List;
-
-public class IteratorScooter implements Iterator<Scooter> {
+public class IteratorScooter implements Iterator {
     private List<Scooter> scooters;
     private int position = 0;
 
@@ -18,11 +15,9 @@ public class IteratorScooter implements Iterator<Scooter> {
     }
 
     @Override
-    public Scooter next() {
-        if (hasNext()) {
-            Scooter scooter = scooters.get(position);
-            position++;
-            return scooter;
+    public Vehicule next() {
+        if (this.hasNext()) {
+            return scooters.get(position++);
         }
         return null;
     }

@@ -3,9 +3,9 @@ package Composite;
 public class Main {
     public static void main(String[] args) {
         // Création de sociétés
-        Societe societe1 = new SocieteSansFiliales("Societe A");
-        Societe societe2 = new SocieteSansFiliales("Societe B");
-        Societe societe3 = new SocieteSansFiliales("Societe C");
+        Societe societe1 = new SocieteSansFiliales("Societe Mercedes");
+        Societe societe2 = new SocieteSansFiliales("Societe Yamaha");
+        Societe societe3 = new SocieteSansFiliales("Societe TOYOTA");
 
         // Création d'une société avec des filiales
         SocieteAvecFiliales holding = new SocieteAvecFiliales("Holding");
