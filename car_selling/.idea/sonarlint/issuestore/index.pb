@@ -73,8 +73,6 @@ L
 src/Adapter/DocumentPDF.java,7/4/74010925c6eca7ea673b368d599471dea176ce63
 F
 src/Bridge/Widget.java,5/7/57733d89ee84ef27ad76387f2c08d0beb29b9dc8
-M
-src/Bridge/FormulaireWeb.java,e/c/ec4532546fcd36d2212ed9055aa7f57f8da1b215
 P
  src/Bridge/FormulaireMobile.java,2/a/2ab3c273f11b97a2c1ab2ec5f145172f2e8ba5dd
 M

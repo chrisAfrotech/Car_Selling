@@ -11,5 +11,12 @@ public abstract class Societe {
 
     // Méthode abstraite pour calculer le coût
     public abstract double calculCout();
+
+    public void addFiliale(Societe fille1) {
+    }
+
+    public boolean getDescription() {
+        return false;
+    }
 }
 

@@ -7,6 +7,9 @@ public class Automobile implements Vehicule {
         this.modele = modele;
     }
 
+    public Automobile(String audiA1, int i) {
+    }
+
     @Override
     public String getDescription() {
         return "Automobile : " + modele;

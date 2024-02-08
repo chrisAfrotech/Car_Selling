@@ -47,4 +47,20 @@ public class Catalogue {
             }
         }
     }
-}
+
+
+//    public void addVehicule(Iterator.Scooter audiA1) {
+    }
+
+//    public void display() {
+//    }
+
+//    public void addVehicule(Iterator.Automobile audiA1) {
+//    }
+
+//    public void addVehicule(Iterator.Automobile bmwX5) {
+//    }
+
+//    public Iterator.Vehicule getVehicule(String nom) {
+//    }
+//}

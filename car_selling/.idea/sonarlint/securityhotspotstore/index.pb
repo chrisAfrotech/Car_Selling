@@ -75,8 +75,6 @@ E
 src/Adapter/Main.java,9/f/9f831fd4381b6a4ef8922a7ae09cb9cc76626fa2
 F
 src/Bridge/Widget.java,5/7/57733d89ee84ef27ad76387f2c08d0beb29b9dc8
-M
-src/Bridge/FormulaireWeb.java,e/c/ec4532546fcd36d2212ed9055aa7f57f8da1b215
 P
  src/Bridge/FormulaireMobile.java,2/a/2ab3c273f11b97a2c1ab2ec5f145172f2e8ba5dd
 J
