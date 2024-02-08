@@ -13,7 +13,7 @@ public class VehiculePromotion implements Vehicule {
     @Override
     public void afficher() {
         vehicule.afficher();
-        System.out.println("Prix après promotion : " + (prix * (1 - tauxPromotion)) + "XAF");
+        System.out.println("Prix après promotion : " + (vehicule.getPrix() * (1 - tauxPromotion)) + "XAF");
     }
 
     @Override
@@ -32,6 +32,6 @@ public class VehiculePromotion implements Vehicule {
     }
     public double getPrix() {
 
-        return  (prix * (1 - tauxPromotion));
+        return  (vehicule.getPrix() * (1 - tauxPromotion));
     }
 }

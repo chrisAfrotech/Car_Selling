@@ -9,7 +9,7 @@ public class LiasseDocuments {
 
     private LiasseDocuments() {
         // Initialisation de la liasse de documents
-        System.out.println("Liasse de documents créée");
+        System.out.println("Liasse de documents vierges créée");
     }
 
     // Méthode statique pour obtenir l'instance unique

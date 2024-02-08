@@ -1,5 +1,7 @@
 package Builder;
 
+//    Définir une interface DocumentBuilder avec des méthodes pour la construction de chaque type de document (demande d'immatriculation, certificat de cession, bon de commande).
+//    Implémenter des classes concrètes (DemandeImmatriculationBuilder, CertificatCessionBuilder, BonCommandeBuilder) pour construire les documents spécifiques.
 public class Main {
     public static void main(String[] args) {
         // Utilisation du Builder pour construire des documents
